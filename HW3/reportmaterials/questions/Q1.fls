@@ -1,0 +1,6 @@
+PWD e:/uni/term 6/data network/assignments/DN_HW3_400101861/reportmaterials/questions
+INPUT c:/texlive/2021/texmf.cnf
+INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt
+INPUT e:/uni/term 6/data network/assignments/DN_HW3_400101861/reportmaterials/questions/Q1.tex
+OUTPUT Q1.log
